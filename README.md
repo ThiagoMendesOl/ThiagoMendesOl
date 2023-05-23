@@ -3,6 +3,7 @@
 - 👨‍💻 Systems Analysis and Development - Unicsul-SP
 - 🌱 Development Student
 - 📫 e-mail: thiago.mendes90@yahoo.com.br
+- 🤓 Personal profile: https://github.com/TMendesO
   
   <div>
  <a href="https://github.com/TMendesO/github-readme-stats">
