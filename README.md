@@ -6,12 +6,12 @@
 - 🤓 Personal profile: https://github.com/TMendesO
   
   <div>
- <a href="https://github.com/ThiagoMendesOl/github-readme-stats">
-  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=ThiagoMendesOl&show_icons=true&theme=onedark" />
+ <a href="https://github.com/ThiagoMendesOl">
+  <img align="center" height="180em" width=400 src="https://github-readme-stats.vercel.app/api?username=ThiagoMendesOl&show_icons=true&theme=transparent&count_private=true" />
 </a>
-<a href="https://github.com/ThiagoMendesOl/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMendesO&layout=compact&langs_count=7&theme=dracula"/>
-</a 
+<a href="https://github.com/TMendesO">
+  <img align="center" height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMendesO&layout=compact&langs_count=7&card_width=400&theme=transparent&count_private=true"/>
+  </a>  
   </div>
   <h2 align="center">My Skills - Learning :notebook: :desktop_computer:</h2> 
  <div align="center" style="display: inline_block"><br>
